@@ -1,4 +1,4 @@
-Python Basic Programs - Module 2 Assignment-1
+Python_Basic_Programs-Module_2_Assignment-1
 
 This repository contains Python programs (file name-simple_program.py that contain both task).
 
